@@ -1,0 +1,979 @@
+
+CoreProAPI::CUSTOMERCustomer Object
+(
+    [accounts] => Array
+        (
+        )
+
+    [addresses] => Array
+        (
+        )
+
+    [createdDate] => 2014-08-19T09:47:44.184-05:00
+    [culture] => en-US
+    [customerId] => 2653
+    [driversLicenseState] => 
+    [emailAddress] => phpSDK1408731552.8467
+    [externalAccounts] => Array
+        (
+        )
+
+    [firstName] => Joey2014-08-19 09:47:42 -0500
+    [gender] => M
+    [isActive] => 1
+    [isDocumentsAccepted] => 1
+    [isLocked] => 
+    [isOptedInToBankCommunication] => 
+    [isSubjectToBackupWithholding] => 
+    [lastName] => McTester2014-08-19 09:47:42 -0500
+    [lockedReason] => 
+    [middleName] => Flanagan
+    [passportCountry] => 
+    [phones] => Array
+        (
+        )
+
+    [status] => Verified
+    [tag] => jfm2014-08-19 09:47:42 -0500
+    [taxId] => 012341234
+    [requestId] => f016baad-52b7-45f1-ae13-ce0efdbff0d2
+    [customerCount] => 1
+)
+
+CoreProAPI::ACCOUNT
+CoreProAPI::CUSTOMERBENEFICIARYCustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2938
+    [customerId] => 2653
+    [lastName] => PHP1408632437.6098
+    [firstName] => PHP1408632437.6098
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2939
+    [customerId] => 2653
+    [lastName] => PHP1408632468.7436
+    [firstName] => PHP1408632468.7436
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2940
+    [customerId] => 2653
+    [lastName] => PHP1408632474.8453
+    [firstName] => PHP1408632474.8453
+    [middleName] => 
+    [taxId] => 012341234a
+    [taxIdMasked] => ******234a
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2941
+    [customerId] => 2653
+    [lastName] => PHP1408632497.8932
+    [firstName] => PHP1408632497.8932
+    [middleName] => 
+    [taxId] => 012341234a
+    [taxIdMasked] => ******234a
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2942
+    [customerId] => 2653
+    [lastName] => PHP1408632553.2006
+    [firstName] => PHP1408632553.2006
+    [middleName] => 
+    [taxId] => 012341234a
+    [taxIdMasked] => ******234a
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2943
+    [customerId] => 2653
+    [lastName] => PHP1408632993.0315
+    [firstName] => PHP1408632993.0315
+    [middleName] => 
+    [taxId] => 012341234a
+    [taxIdMasked] => ******234a
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2944
+    [customerId] => 2653
+    [lastName] => PHP1408633093.7899
+    [firstName] => PHP1408633093.7899
+    [middleName] => 
+    [taxId] => 012341234a
+    [taxIdMasked] => ******234a
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2945
+    [customerId] => 2653
+    [lastName] => PHP1408633131.5339
+    [firstName] => PHP1408633131.5339
+    [middleName] => 
+    [taxId] => 012341234a
+    [taxIdMasked] => ******234a
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2946
+    [customerId] => 2653
+    [lastName] => PHP1408633154.2835
+    [firstName] => PHP1408633154.2835
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2956
+    [customerId] => 2653
+    [lastName] => PHP1408718477.3979
+    [firstName] => PHP1408718477.3979
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2957
+    [customerId] => 2653
+    [lastName] => PHP1408718491.3841
+    [firstName] => PHP1408718491.3841
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2958
+    [customerId] => 2653
+    [lastName] => PHP1408719034.5309
+    [firstName] => PHP1408719034.5309
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2959
+    [customerId] => 2653
+    [lastName] => PHP1408719051.2598
+    [firstName] => PHP1408719051.2598
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2960
+    [customerId] => 2653
+    [lastName] => PHP1408719229.2821
+    [firstName] => PHP1408719229.2821
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2961
+    [customerId] => 2653
+    [lastName] => PHP1408719501.6421
+    [firstName] => PHP1408719501.6421
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2962
+    [customerId] => 2653
+    [lastName] => PHP1408719537.1868
+    [firstName] => PHP1408719537.1868
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2963
+    [customerId] => 2653
+    [lastName] => PHP1408719551.5481
+    [firstName] => PHP1408719551.5481
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2964
+    [customerId] => 2653
+    [lastName] => PHP1408719635.5795
+    [firstName] => PHP1408719635.5795
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2965
+    [customerId] => 2653
+    [lastName] => PHP1408719689.1927
+    [firstName] => PHP1408719689.1927
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2966
+    [customerId] => 2653
+    [lastName] => PHP1408720077.6304
+    [firstName] => PHP1408720077.6304
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2967
+    [customerId] => 2653
+    [lastName] => PHP1408720112.7789
+    [firstName] => PHP1408720112.7789
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2968
+    [customerId] => 2653
+    [lastName] => PHP1408720129.2229
+    [firstName] => PHP1408720129.2229
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2969
+    [customerId] => 2653
+    [lastName] => PHP1408720165.1304
+    [firstName] => PHP1408720165.1304
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2970
+    [customerId] => 2653
+    [lastName] => PHP1408720220.0781
+    [firstName] => PHP1408720220.0781
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2971
+    [customerId] => 2653
+    [lastName] => PHP1408720300.2352
+    [firstName] => PHP1408720300.2352
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2972
+    [customerId] => 2653
+    [lastName] => PHP1408720337.9821
+    [firstName] => PHP1408720337.9821
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2973
+    [customerId] => 2653
+    [lastName] => PHP1408720368.1969
+    [firstName] => PHP1408720368.1969
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2975
+    [customerId] => 2653
+    [lastName] => PHP1408720391.5888
+    [firstName] => PHP1408720391.5888
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2976
+    [customerId] => 2653
+    [lastName] => PHP1408720414.3408
+    [firstName] => PHP1408720414.3408
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2978
+    [customerId] => 2653
+    [lastName] => PHP1408720559.3533
+    [firstName] => PHP1408720559.3533
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2980
+    [customerId] => 2653
+    [lastName] => PHP1408720637.0081
+    [firstName] => PHP1408720637.0081
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2982
+    [customerId] => 2653
+    [lastName] => PHP1408720647.586
+    [firstName] => PHP1408720647.586
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2984
+    [customerId] => 2653
+    [lastName] => PHP1408720665.4669
+    [firstName] => PHP1408720665.4669
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2986
+    [customerId] => 2653
+    [lastName] => PHP1408720688.5097
+    [firstName] => PHP1408720688.5097
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2988
+    [customerId] => 2653
+    [lastName] => PHP1408720714.8562
+    [firstName] => PHP1408720714.8562
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2990
+    [customerId] => 2653
+    [lastName] => PHP1408720915.1933
+    [firstName] => PHP1408720915.1933
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2993
+    [customerId] => 2653
+    [lastName] => PHP1408720928.2085
+    [firstName] => PHP1408720928.2085
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2995
+    [customerId] => 2653
+    [lastName] => PHP1408721384.4957
+    [firstName] => PHP1408721384.4957
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 2998
+    [customerId] => 2653
+    [lastName] => PHP1408721560.6456
+    [firstName] => PHP1408721560.6456
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 3001
+    [customerId] => 2653
+    [lastName] => PHP1408721698.5624
+    [firstName] => PHP1408721698.5624
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 3004
+    [customerId] => 2653
+    [lastName] => PHP1408721712.4553
+    [firstName] => PHP1408721712.4553
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 3005
+    [customerId] => 2653
+    [lastName] => PHP1408721716.4308
+    [firstName] => PHP1408721716.4308
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 3008
+    [customerId] => 2653
+    [lastName] => PHP1408722136.3049
+    [firstName] => PHP1408722136.3049
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 3011
+    [customerId] => 2653
+    [lastName] => PHP1408722184.6767
+    [firstName] => PHP1408722184.6767
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 3014
+    [customerId] => 2653
+    [lastName] => PHP1408722438.0359
+    [firstName] => PHP1408722438.0359
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 3017
+    [customerId] => 2653
+    [lastName] => PHP1408722450.8475
+    [firstName] => PHP1408722450.8475
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 3020
+    [customerId] => 2653
+    [lastName] => PHP1408731135.2633
+    [firstName] => PHP1408731135.2633
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 3023
+    [customerId] => 2653
+    [lastName] => PHP1408731270.4975
+    [firstName] => PHP1408731270.4975
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 3026
+    [customerId] => 2653
+    [lastName] => PHP1408731322.4047
+    [firstName] => PHP1408731322.4047
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 3029
+    [customerId] => 2653
+    [lastName] => PHP1408731344.2703
+    [firstName] => PHP1408731344.2703
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 3032
+    [customerId] => 2653
+    [lastName] => PHP1408731474.9099
+    [firstName] => PHP1408731474.9099
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 3035
+    [customerId] => 2653
+    [lastName] => PHP1408731497.2949
+    [firstName] => PHP1408731497.2949
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+CustomerBeneficiary Object
+(
+    [customerBeneficiaryId] => 3038
+    [customerId] => 2653
+    [lastName] => PHP1408731552.8467
+    [firstName] => PHP1408731552.8467
+    [middleName] => 
+    [taxId] => 012341234
+    [taxIdMasked] => ******1234
+    [birthDate] => 1975-07-13T19:00:00.000-05:00
+    [isActive] => 1
+    [requestId] => 6f2abebe-da34-4cc6-9b8a-8f787106a3c2
+)
+
+CoreProAPI::EXTERNALACCOUNT
+CoreProAPI::DOCUMENTDocument Object
+(
+    [bankid] => 
+    [culture] => en-US
+    [customerId] => 2616
+    [documentId] => 29
+    [documentType] => ConsumerDepositAgreement
+    [downloadUrl] => https://sandbox-api.corepro.io/document/download/en-US/29
+    [effectiveDate] => 2014-03-05T15:26:34.757+00:00
+    [expireDate] => 2014-12-31T23:59:59.999+00:00
+    [html] => <style>#main .copy li p {
+	width: auto;
+}
+</style>
+<h4>Consumer Deposit Account Agreement</h4> 
+<ol>
+<li><a href="#definitions">DEFINITIONS</a></li>
+<li><a href="#operations">ACCOUNT OPERATIONS</a></li>
+<li><a href="#statements">ACCOUNT STATEMENTS AND NOTICES</a></li>
+<li><a href="#transactions">ACCOUNT TRANSACTIONS</a></li>
+<li><a href="#deposits">DEPOSITS, COLLECTIONS, AND PAYMENT OF ITEMS</a></li>
+<li><a href="#withdrawls">WITHDRAWALS</a></li>
+<li><a href="#sub-accounts">SUB-ACCOUNTS</a></li>
+<li><a href="#dispute-resolution">DISPUTE RESOLUTION</a></li>
+<li><a href="#dormant">DORMANT AND ABANDONED/UNCLAIMED ACCOUNTS</a></li>
+<li><a href="#set-off">SET OFF</a></li>
+<li><a href="#waivers">WAIVERS</a></li>
+<li><a href="#interest">INTEREST; INTEREST REPORTING</a></li>
+<li><a href="#applicable-law">APPLICABLE LAW</a></li>
+<li><a href="#additional-provisions">ADDITIONAL PROVISIONS</a></li>
+</ol>
+<ul class="plain disclosures">
+<li><a href="#eft">Electronic Fund Transfer Disclosure Statement</a></li>
+<li><a href="#taxpayer">Taxpayer Identification Numbers (Backup Withholding)</a></li>
+</ul>
+ 
+<p>Welcome to Lincoln Savings Bank, Member FDIC.  This booklet contains your Deposit Account Agreement and certain additional disclosure information.  Please read this information carefully and keep it with your other financial records.</p>
+
+
+    [title] => CorePro Sample Consumer Deposit Agreement
+    [bankId] => 1
+    [requestId] => 09224cd7-8dfe-40f5-85ee-d13890b1877e
+)
+Document Object
+(
+    [bankid] => 
+    [culture] => en-US
+    [customerId] => 2616
+    [documentId] => 28
+    [documentType] => eStatement
+    [downloadUrl] => https://sandbox-api.corepro.io/document/download/en-US/28
+    [effectiveDate] => 2014-03-05T15:26:34.757+00:00
+    [expireDate] => 2014-12-31T23:59:59.999+00:00
+    [html] => <h4>Agreement and Consent Regarding Electronic Communications</h4>  
+<p>Please read this Agreement and Consent Regarding Electronic Communications (referred to as the “Agreement”) and retain a copy for your future reference.  This Agreement contains important information regarding your transaction of business electronically with CorePro and Lincoln Savings Bank (“LSB”).  In this Agreement, the following terms have the meanings shown below:</p>  
+
+    [title] => CorePro Sample eStatement
+    [bankId] => 1
+    [requestId] => 09224cd7-8dfe-40f5-85ee-d13890b1877e
+)
+Document Object
+(
+    [bankid] => 
+    [culture] => en-US
+    [customerId] => 2616
+    [documentId] => 26
+    [documentType] => PrivacyPolicy
+    [downloadUrl] => https://sandbox-api.corepro.io/document/download/en-US/26
+    [effectiveDate] => 2014-03-05T15:26:34.757+00:00
+    [expireDate] => 2014-12-31T23:59:59.999+00:00
+    [html] => <h4>PRIVACY POLICY</h4>  <br /><br />    <p>In this disclosure, you'll find details about our privacy policies and procedures, and instructions for 
+
+changing how information about you may be shared. Please read this carefully, print and/or download a copy for your files.</p> 
+<p>Your Savings Account with Lincoln Savings Bank is governed by the LSB Consumer Privacy Disclosure.  Please see the LSB Consumer Privacy 
+
+Disclosure for details on the LSB privacy policies.</p>
+
+    [title] => CorePro Sample Privacy Policy
+    [bankId] => 1
+    [requestId] => 09224cd7-8dfe-40f5-85ee-d13890b1877e
+)
+Document Object
+(
+    [bankid] => 
+    [culture] => en-US
+    [customerId] => 2616
+    [documentId] => 25
+    [documentType] => TermsAndConditions
+    [downloadUrl] => https://sandbox-api.corepro.io/document/download/en-US/25
+    [effectiveDate] => 2014-03-05T15:26:34.757+00:00
+    [expireDate] => 2014-12-31T23:59:59.999+00:00
+    [html] => <h4>TERMS AND CONDITIONS</h4><br /><br />
+
+<p>These Terms and Conditions (this "Agreement") govern the 
+
+program and services available through CorePro and Lincoln Savings 
+
+Bank ("LSB") as described in this Agreement.   
+
+CorePro offers a unique way to save for a financial 
+
+savings goal through the accumulation of deposits in a 
+
+savings account at LSB.  LSB is not 
+
+affiliated with CorePro but is a CorePro bank service provider.  In addition to this Agreement, your 
+
+Savings Account maintained at LSB is subject to 
+
+LSB's Consumer Deposit Account Agreement and Truth 
+
+In Savings Disclosure.</p>
+    [title] => CorePro Sample Terms and Conditions
+    [bankId] => 1
+    [requestId] => 09224cd7-8dfe-40f5-85ee-d13890b1877e
+)
+Document Object
+(
+    [bankid] => 
+    [culture] => en-US
+    [customerId] => 2616
+    [documentId] => 27
+    [documentType] => TruthInSavings
+    [downloadUrl] => https://sandbox-api.corepro.io/document/download/en-US/27
+    [effectiveDate] => 2014-03-05T15:26:34.757+00:00
+    [expireDate] => 2014-12-31T23:59:59.999+00:00
+    [html] => <h4>Truth-In-Savings Account Disclosure</h4>
+<p>This Savings Account is only available to individuals with a CorePro Account.  This disclosure contains information about your Savings Account related to CorePro.  Your Savings Account with Lincoln Savings Bank (“LSB”) is governed by this Truth-In-Savings Account Disclosure and the Lincoln Savings Bank Consumer Deposit Account Agreement.  In addition, the CorePro Terms and Conditions govern your CorePro Account.   Any capitalized terms not defined herein shall have the meaning set forth in your CorePro Terms and Conditions.</p>
+
+    [title] => CorePro Sample Truth In Savings
+    [bankId] => 1
+    [requestId] => 09224cd7-8dfe-40f5-85ee-d13890b1877e
+)
+
+CoreProAPI::CUSTOMERDOCUMENT
+CoreProAPI::EXTERNALACCOUNTDOCUMENT
+CoreProAPI::PROGRAMobject(Program)#84 (23) {
+  ["allowedAccountType"]=>
+  string(6) "Client"
+  ["decimalCount"]=>
+  int(2)
+  ["filledDate"]=>
+  string(29) "2014-08-22T18:17:55.461+00:00"
+  ["isInteresteEnabled"]=>
+  NULL
+  ["isInternalToInternalTransferEnabled"]=>
+  bool(true)
+  ["isRecurringContributionEnabled"]=>
+  bool(true)
+  ["name"]=>
+  string(20) "CoreProPrepaidTester"
+  ["perProgramDailyDepositLimit"]=>
+  object(stdClass)#82 (2) {
+    ["maximumAmount"]=>
+    float(999999999.99)
+    ["minimumAmount"]=>
+    float(0)
+  }
+  ["perProgramDailyWithdrawLimit"]=>
+  object(stdClass)#81 (2) {
+    ["maximumAmount"]=>
+    float(999999999.99)
+    ["minimumAmount"]=>
+    float(0)
+  }
+  ["perTransactionDepositLimit"]=>
+  object(stdClass)#80 (2) {
+    ["maximumAmount"]=>
+    float(500)
+    ["minimumAmount"]=>
+    float(1)
+  }
+  ["perTransactionWithdrawLimit"]=>
+  object(stdClass)#79 (2) {
+    ["maximumAmount"]=>
+    float(500)
+    ["minimumAmount"]=>
+    float(1)
+  }
+  ["perUserDailyDepositLimit"]=>
+  object(stdClass)#78 (2) {
+    ["maximumAmount"]=>
+    float(500)
+    ["minimumAmount"]=>
+    float(0)
+  }
+  ["perUserDailyWithdrawLimit"]=>
+  object(stdClass)#77 (2) {
+    ["maximumAmount"]=>
+    float(500)
+    ["minimumAmount"]=>
+    float(0)
+  }
+  ["perUserMonthlyDepositLimit"]=>
+  object(stdClass)#76 (2) {
+    ["maximumAmount"]=>
+    float(1000)
+    ["minimumAmount"]=>
+    float(0)
+  }
+  ["perUserMonthlyWithdrawLimit"]=>
+  object(stdClass)#75 (2) {
+    ["maximumAmount"]=>
+    float(1000)
+    ["minimumAmount"]=>
+    float(0)
+  }
+  ["regDFeeAmount"]=>
+  float(0)
+  ["regDMonthlyTransactionWithdrawCountMax"]=>
+  float(0)
+  ["timeZone"]=>
+  string(21) "Central Standard Time"
+  ["verificationType"]=>
+  string(4) "None"
+  ["website"]=>
+  string(32) "http://coreproprepaid.corepro.io"
+  ["interestRates"]=>
+  array(1) {
+    [0]=>
+    object(stdClass)#83 (5) {
+      ["apr"]=>
+      float(0)
+      ["apy"]=>
+      float(0)
+      ["maximumAmount"]=>
+      float(0)
+      ["minimumAmount"]=>
+      float(0)
+      ["tier"]=>
+      int(1)
+    }
+  }
+  ["isInterestEnabled"]=>
+  bool(false)
+  ["requestId"]=>
+  string(36) "5f79772f-c1cd-41f3-91ed-e71dca5a09f3"
+}
+
+CoreProAPI::TRANSACTIONarray(0) {
+}
+
+CoreProAPI::TRANSFERCaught Exception: Invalid source account id 0.Invalid destination account id 0.
+CoreProAPI::STATEMENTSarray(0) {
+}
