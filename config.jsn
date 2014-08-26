@@ -1,8 +1,0 @@
-{
-    "UserAgent": "CorePro PHP SDK v0.0.1",
-    "CoreProApiKey": "coreproprepaid",
-    "CoreProApiSecret": "coreproprepaid",
-    "CoreProUrl": "https://sandbox-api.corepro.io/",
-    "VerifySSLHost": false,
-    "VerifySSLPeer": false
-}
